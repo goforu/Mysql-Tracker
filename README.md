@@ -6,5 +6,5 @@ Mysql Tracker can automatically generate mysql code which can create some trigge
 
 ## Addition
 It can filter some columns(Changes will be ignored)
-## Caution
-Every table should contain an **'id'** column which sets as a primary key.
+## Notice
+Each table should contain an **'id'** column which sets as a primary key.
