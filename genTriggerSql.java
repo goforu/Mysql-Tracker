@@ -6,9 +6,9 @@ import java.util.Arrays;
  */
 public class GenTriggerSql {
 
-    private staic String DATABASE_URL = "databae_url";//Set databse url
-    private staic String DATABASE_NAME = "name";//database name
-    private staic String DATABASE_PASSWORD = "password";//database password
+    private static String DATABASE_URL = "databae_url";//Set databse url
+    private static String DATABASE_NAME = "name";//database name
+    private static String DATABASE_PASSWORD = "password";//database password
 
     private static String HISTORY_TABLE = "tbl_history";
     private static String HISTORY_TABLE_COLUMN = "action_result";
